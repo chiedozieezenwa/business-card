@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background-color: rgb(240, 232, 232);
+}
+header{
+    background-color: rgb(0, 183, 255);
+    color: azure;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+ol{
+    list-style: none;
+    display: flex;
+}
+ol li {
+    margin-right: 15px;
+}
+.main{
+    background-color: white;
+    margin: 30px;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+}
+img{
+    margin-top: 20px;
+    border-radius: 10px;
+}
